@@ -230,3 +230,9 @@ table, th, td, tr {
 #q{
   margin-right: 63%;
 }
+.index{
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 10%;
+  font-size: 30px;
+}

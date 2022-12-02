@@ -140,60 +140,22 @@ p{
 
 table, th, td, tr {
   border: 5px solid  darkred;
-  margin-left: 35%;
-  padding: 10px;
+  margin-left: 32%;
+  padding: 8px;
   color: red;
   text-align: center;
-  font-size: 40px
+  font-size: 40px;
+  background-color: white;
+
 }
-#Supervriend:hover{
-  color: pink;
-}
-#Vriend:hover{
-  color: pink;
-}
-#hobby{
-  margin-right: 5%;
-  list-style: none;
-}
-#hobby:hover{
-  color: pink;
-}
-#hobby1{
-  margin-right: 5%;
-  list-style: none;
-}
-#hobby1:hover{
-  color: pink;
-}
-#hobby2{
-  margin-right: 5%;
-  list-style: none;
-}
-#hobby2:hover{
-  color: pink;
-}
-#hobby3{
-  margin-right: 5%;
-  list-style: none;
-}
-#hobby3:hover{
-  color: pink;
-}
+
 
 .p:hover{
   color: pink ;
   display: inline;
 
 }
-#drumstel{
-  margin-left: 6% ;
-  border: solid red;
-}
-#schermen{
-  margin-left: 18%;
-  border: solid red;
-}
+
 #instagram{
   transition: 0.3s;
 
@@ -229,4 +191,15 @@ table, th, td, tr {
 
 #q{
   margin-right: 63%;
+}
+.korftext1{
+  font-size: 30px;
+}
+.korftext2{
+  font-size: 20px;
+  margin-right: 200px;
+  margin-left: 200px;
+}
+.top3{
+  font-size: 25px;
 }
