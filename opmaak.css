@@ -1,6 +1,6 @@
 body{
   background-color:#1A1A1D;
-
+  background-image: url(https://www.korfbal.nl/app/uploads/2022/11/JSPN4380.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment:  fixed;
@@ -102,9 +102,11 @@ h1{
 
 p{
   color: #99999999;
+  font-family: monospace;
 }
 h2{
-  color: #950740
+  color: #950740;
+  font-family: monospace;
 }
 
 h1{
@@ -122,7 +124,19 @@ img{
   margin-top: 10%;
 }
 
-
+p{
+  color: #950740;
+}
+#contactdiv{
+    background-color: rgb(175, 175, 175);
+    max-width: 640px;
+    max-height: 250px;
+    display: flex;
+    align-content: center;
+    vertical-align: middle;
+    margin: auto;
+    margin-top: 100px;
+}
 
 table, th, td, tr {
   border: 5px solid  darkred;

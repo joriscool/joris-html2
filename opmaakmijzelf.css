@@ -1,0 +1,248 @@
+body{
+  background-color:#1A1A1D;
+  background-image: url(korfbalking.png);
+  background-size: 100% 85%;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-attachment:  fixed;
+  text-align: center;
+}
+#menu{
+  display: inline;
+  border: solid black;
+  padding: 10px;
+  background-color: black;
+  overflow: hidden;
+  margin: -4px;
+  color: white;
+}
+#menu:hover{
+
+  background-color: white;
+  transition: 0.5s;
+  color: black;
+}
+#menu1{
+  display: inline;
+  border: solid black;
+  padding: 10px;
+  background-color: black;
+  overflow: hidden;
+  margin: -4px;
+  color: white;
+}
+#menu1:hover{
+
+  background-color: white;
+  transition: 0.2s;
+  color: black;
+
+}
+
+.mijzelfdiv{
+  background-color: blue;
+  margin-top: 500px;
+  display: flex;
+  align-self: center;
+  align-content: center;
+  vertical-align: middle;
+  margin-left: 33%;
+  max-width: 33%;
+  text-align: center;
+}
+
+.textmij{
+  color: white;
+}
+
+#menu3{
+  display: inline;
+  border: solid black;
+  padding: 10px;
+  background-color: black;
+  overflow: hidden;
+  margin: -4px;
+  color: white;
+}
+#menu3:hover{
+
+  background-color: white;
+  transition:    0,2;
+  transition-timing-function: ease-in-out;
+  color: black;
+}
+#menu4{
+  display: inline;
+  border: solid black;
+  padding: 10px;
+  background-color: black;
+  overflow: hidden;
+  margin: -4px;
+  color: white;
+}
+#menu4:hover{
+
+  background-color: white;
+  transition: 0.2s;
+  color: black;
+}
+
+a:link{
+  text-decoration: none;
+  color: white;
+}
+a:visited{
+  color: white;
+}
+a:hover{
+  color: black;
+
+
+
+}
+li{
+  color: #4E4E50;
+  list-style: none;
+  margin-right: 4%;
+}
+
+
+
+
+
+
+h1, h2, p{
+
+  text-align: center;
+}
+
+p{
+  color: #99999999;
+  font-family: monospace;
+}
+h2{
+  color: #950740;
+  font-family: monospace;
+}
+
+h1{
+
+  color: #950740;
+  font-family: Trattatello, fantasy;
+}
+iframe{
+  margin-top: 100px;
+  border-color: red;
+  border-width: 5px;
+  margin-right: 60%
+}
+img{
+  margin-top: 10%;
+}
+
+p{
+  color: #950740;
+}
+#contactdiv{
+    background-color: rgb(175, 175, 175);
+    max-width: 640px;
+    max-height: 250px;
+    display: flex;
+    align-content: center;
+    vertical-align: middle;
+    margin: auto;
+    margin-top: 100px;
+}
+
+table, th, td, tr {
+  border: 5px solid  darkred;
+  margin-left: 35%;
+  padding: 10px;
+  color: red;
+  text-align: center;
+  font-size: 40px
+}
+#Supervriend:hover{
+  color: pink;
+}
+#Vriend:hover{
+  color: pink;
+}
+#hobby{
+  margin-right: 5%;
+  list-style: none;
+}
+#hobby:hover{
+  color: pink;
+}
+#hobby1{
+  margin-right: 5%;
+  list-style: none;
+}
+#hobby1:hover{
+  color: pink;
+}
+#hobby2{
+  margin-right: 5%;
+  list-style: none;
+}
+#hobby2:hover{
+  color: pink;
+}
+#hobby3{
+  margin-right: 5%;
+  list-style: none;
+}
+#hobby3:hover{
+  color: pink;
+}
+
+.p:hover{
+  color: pink ;
+  display: inline;
+
+}
+#drumstel{
+  margin-left: 6% ;
+  border: solid red;
+}
+#schermen{
+  margin-left: 18%;
+  border: solid red;
+}
+#instagram{
+  transition: 0.3s;
+
+}
+#instagram:hover{
+  width: 220px;
+  height: 220px;
+  transition: 0.5s;
+  transition-timing-function: ease-in-out;
+
+}
+#twitter{
+  transition: 0.3s;
+}
+#twitter:hover{
+  width: 220px;
+  height: 220px;
+  transition: 0.5s;
+  transition-timing-function: ease-in-out;
+}
+#yt{
+  transition: 0.3s;
+
+}
+#yt:hover{
+  width: 270px;
+  height: 220px;
+  transition:  0.5s;
+  transition-timing-function: ease-in-out;
+
+}
+
+
+#q{
+  margin-right: 63%;
+}
